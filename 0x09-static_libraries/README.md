@@ -1,1 +1,1 @@
-this directory contains files on classwork projects aboout static libraries
+This directory contains C files foe the even more on arrays classwork projects.
